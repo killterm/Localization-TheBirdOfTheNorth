@@ -9,18 +9,18 @@
 - [스팀 상점 페이지](https://store.steampowered.com/app/4655600/)
 - 대응: Build 25442122 on Sep 21, 2026
 
-<img width="2560" height="1440" alt="북방의 새 1" src="https://github.com/user-attachments/assets/33de6482-76b5-4ad8-8178-ee1164ab83cb" />
+<img width="2559" height="1439" alt="Title" src="https://github.com/user-attachments/assets/70810408-a498-4b2e-b0b8-661df8e591f2" />
 
-<img width="2560" height="1440" alt="북방의 새 2" src="https://github.com/user-attachments/assets/7b934a4c-7389-4480-9f3f-6b99f17a2d91" />
+<img width="2560" height="1440" alt="Newspaper" src="https://github.com/user-attachments/assets/7b934a4c-7389-4480-9f3f-6b99f17a2d91" />
 
-<img width="2560" height="1440" alt="북방의 새 3" src="https://github.com/user-attachments/assets/26b790f6-0cb2-451a-ac68-9cfa4db593cb" />
+<img width="2559" height="1439" alt="Typewriter" src="https://github.com/user-attachments/assets/0dd862d6-50f3-49e3-9d0e-98a0673c5090" />
 
 ## 라이선스
 
 - 폰트
   - [HS봄바람체 2.1](https://blog.naver.com/hp0/223003310026)
-  - [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
   - [조선100년체](https://event.chosun.com/100/100font.html)
+  - [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)
 
 ## 사용법
 
